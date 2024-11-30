@@ -24,8 +24,5 @@ Atualmente estou focado em aprender **Desenvolvimento Web** e **Inteligência Ar
 Atualmente, estou trabalhando em um **projeto de aplicação web** que utiliza **React** para o frontend e **Node.js** para o backend. Também estou explorando **TensorFlow** e **Keras** para implementar modelos de aprendizado de máquina.
 
 
-## 📞 Entre em Contato
-
-- 📧 E-mail: [seu-email@dominio.com](mailto:seu-pipipil@dominio.com)
 
 
