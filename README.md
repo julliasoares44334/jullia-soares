@@ -26,8 +26,6 @@ Atualmente, estou trabalhando em um **projeto de aplicação web** que utiliza *
 
 ## 📞 Entre em Contato
 
-- 📧 E-mail: [seu-email@dominio.com](mailto:seu-email@dominio.com)
-- 🌐 Meu portfólio: [www.seuportfolio.com](http://www.seuportfolio.com)
-- 🧑‍💻 LinkedIn: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/seu-usuario)
+- 📧 E-mail: [seu-email@dominio.com](mailto:seu-pipipil@dominio.com)
 
 
